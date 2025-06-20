@@ -26,9 +26,22 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### OpenSource
+#### 🌟 Contributions
+
+| Type | Platform | Package | Contribution |
+|------|----------|---------|-------------|
+| Fix | FastAPI | **LightRAG** | [Fix: Increase Ollama timeout values to prevent ReadTimeout errors.](https://github.com/HKUDS/LightRAG/pull/1643) |
+
 
 ## 📂 Featured Projects
 
+### 🌟 [LightRAG Open Source Contribution](https://github.com/HKUDS/LightRAG/pull/1643)
+> **RAG (Retrieval-Augmented Generation) 프레임워크 기여**
+- 대규모 오픈소스 프로젝트에 기여
+- Knowledge Graph 기반 RAG 시스템 개선
+- 커뮤니티와의 협업을 통한 코드 품질 향상
+  
 ### 🔥 [Log Pipeline](https://github.com/eddiemaru-101/logpipeline)
 > **새싹(SESSAC) 2기 최종 프로젝트**
 - 로그 데이터 처리 및 분석을 위한 파이프라인 구축
