@@ -62,38 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiemaru-101&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## 🎯 Development Focus
-
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Eddie"
-        self.role = "Backend Developer"
-        self.language_spoken = ["ko", "en"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-    
-    def current_workspace(self):
-        workspace = {
-            "os": "macOS",
-            "editor": "PyCharm",
-            "terminal": "iTerm2",
-            "tools": ["Git", "Docker", "Postman"]
-        }
-        return workspace
-        
-    def current_learning(self):
-        return [
-            "Microservices Architecture",
-            "Container Orchestration",
-            "Performance Optimization",
-            "System Design"
-        ]
-
-me = BackendDeveloper()
-me.say_hi()
-```
 
 ## 🔍 Learning Journey
 
