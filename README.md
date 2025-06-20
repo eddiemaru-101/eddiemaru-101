@@ -27,7 +27,8 @@
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
 
-### OpenSource
+## 🤝 OpenSource
+
 #### 🌟 Contributions
 
 | Type | Platform | Package | Contribution |
