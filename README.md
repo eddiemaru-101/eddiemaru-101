@@ -69,6 +69,11 @@ I also have experience working with **machine learning** and **AI**.
   <img src="https://github-readme-stats.vercel.app/api?username=eddiemaru-101&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiemaru-101&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
@@ -80,9 +85,5 @@ I also have experience working with **machine learning** and **AI**.
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiemaru-101&layout=compact&theme=dark" alt="Top Languages" />
-</div>
 
 
