@@ -7,8 +7,9 @@
 
 ## 🚀 About Me
 
-I'm a data engineer interested in building data pipeline architectures.
-I also have experience working with machine learning and AI.
+I'm a data engineer interested in building data pipeline architectures.  
+I also have experience working with machine learning and AI.  
+
 
 Currently studying:
 
@@ -17,6 +18,7 @@ Currently studying:
 - Java programming
 - FAST API
 - Writing efficient SQL queries
+- GraphRAG
 - Open source contributions
 
 ## 🛠️ Tech Stack
