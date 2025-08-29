@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-I'm a data engineer interested in building data pipeline architectures.  
-I also have experience working with machine learning and AI.  
+I'm a **data engineer** interested in building **data pipeline** architectures.  
+I also have experience working with **machine learning** and **AI**.  
 
 
-Currently studying:
+**Currently studying:**
 
 - Spark cluster ETL optimization
 - Kafka cluster management
@@ -41,7 +41,7 @@ Currently studying:
 | Type | Platform | Package | Contribution |
 |------|----------|---------|-------------|
 | Fix | FastAPI | **LightRAG** | [Fix: Increase Ollama timeout values to prevent ReadTimeout errors.](https://github.com/HKUDS/LightRAG/pull/1643) |
-  
+| Fix | FastAPI | **Prefect** | -  
   
   
 ## 📂 Featured Projects
