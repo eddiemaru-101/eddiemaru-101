@@ -1,4 +1,5 @@
-# 안녕하세요! 👋 Eddie입니다
+# Hello! 👋 I'm Eddie
+### 안녕하세요 저는 Eddie입니다.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -6,13 +7,17 @@
 
 ## 🚀 About Me
 
-실무 중심의 백엔드 개발자로서 **Python**을 주력 언어로 사용하며, **Django**와 **FastAPI**를 활용한 서버 개발에 집중하고 있습니다. 
+I'm a data engineer interested in building data pipeline architectures.
+I also have experience working with machine learning and AI.
 
-- 🔭 현재 **로그 파이프라인 프로젝트** 개발 중
-- 🌱 **3-Tier Architecture** 구현 및 최적화 학습 중
-- 💼 **새싹(SESSAC) 2기** 수료
-- 💻 **macOS** 환경에서 개발
-- 📚 지속적인 학습과 실무 적용에 관심
+Currently studying:
+
+- Spark cluster ETL optimization
+- Kafka cluster management
+- Java programming
+- FAST API
+- Writing efficient SQL queries
+- Open source contributions
 
 ## 🛠️ Tech Stack
 
@@ -79,20 +84,3 @@
 </div>
 
 
-## 🔍 Learning Journey
-
-실무에서 바로 적용할 수 있는 기술에 집중하여 학습하고 있습니다:
-
-- **아키텍처 패턴**: 3-Tier, MVC, Clean Architecture
-- **API 설계**: RESTful API, GraphQL
-- **데이터베이스**: ORM 최적화, 쿼리 튜닝
-- **성능**: 캐싱 전략, 비동기 처리
-- **인프라**: 컨테이너화, CI/CD
-
-
-
-<div align="center">
-  
-**"코드로 세상을 더 나은 곳으로 만들어가는 개발자"** 🚀
-
-</div>
