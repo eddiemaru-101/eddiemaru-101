@@ -21,18 +21,6 @@ I also have experience working with **machine learning** and **AI**.
 - GraphRAG
 - Open source contributions
 
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-
-**Data Engineering & Analytics**  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-
 
 ## 🤝 OpenSource
 
@@ -80,6 +68,18 @@ I also have experience working with **machine learning** and **AI**.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eddiemaru-101&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </div>
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+**Data Engineering & Analytics**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiemaru-101&layout=compact&theme=dark" alt="Top Languages" />
