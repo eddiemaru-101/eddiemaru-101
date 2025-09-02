@@ -25,7 +25,7 @@ I also have experience working with **machine learning** and **AI**.
 | Type | Platform | Package | Contribution |
 |------|----------|---------|-------------|
 | Fix | FastAPI | **LightRAG** | [Fix: Increase Ollama timeout values to prevent ReadTimeout errors.](https://github.com/HKUDS/LightRAG/pull/1643) |
-| Fix | FastAPI | **Prefect** | -  
+| Fix | FastAPI | **Prefect** | https://github.com/PrefectHQ/prefect/pull/18807  
 <br>
 <br>
 
