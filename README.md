@@ -9,7 +9,7 @@ I also have experience working with **machine learning** and **AI**.
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2020.01 ~ 2024.04 | BaroAI | AI Engineer |
+| 2020.01 ~ 2024.04 | BARO AI | AI Engineer |
 
 
 <br>
