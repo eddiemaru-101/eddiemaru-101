@@ -3,8 +3,6 @@
 I'm a **data engineer** interested in building **data pipeline** architectures.  
 I also have experience working with **machine learning** and **AI**.  
 
-<br>
-
 #### Career
 
 | Period | Company | Role |
@@ -12,15 +10,11 @@ I also have experience working with **machine learning** and **AI**.
 | 2020.01 ~ 2024.04 | BARO AI | AI Engineer |
 
 
-<br>
-
 #### Contributions
 | Type | Platform | Package | Contribution |
 |------|----------|---------|-------------|
 | Fix | FastAPI | **LightRAG** | [Fix: Increase Ollama timeout values to prevent ReadTimeout errors.](https://github.com/HKUDS/LightRAG/pull/1643) |
 | Fix | FastAPI | **Prefect** | https://github.com/PrefectHQ/prefect/pull/18807  
-
-<br>
 
 
 #### Certifications
