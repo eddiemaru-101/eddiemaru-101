@@ -1,11 +1,11 @@
-### About Me
+#### About Me
 
 I'm a **data engineer** interested in building **data pipeline** architectures.  
 I also have experience working with **machine learning** and **AI**.  
 
 <br>
 
-### Career
+#### Career
 
 | Period | Company | Role |
 |--------|---------|------|
@@ -13,9 +13,6 @@ I also have experience working with **machine learning** and **AI**.
 
 
 <br>
-
-
-### OpenSource
 
 #### Contributions
 | Type | Platform | Package | Contribution |
@@ -26,7 +23,7 @@ I also have experience working with **machine learning** and **AI**.
 <br>
 
 
-### Certifications
+#### Certifications
 
 <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1309014830/97c586f8-400c-427e-951d-7352f731b0de1572374724681906937.png" alt="AWS Certified Data Engineer – Associate" width="150"/>
 
